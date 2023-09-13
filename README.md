@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kev-jnr
 - 👀 I’m interested in cyber security, system intergration and software development
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python, C and Cisco Networking.
 - 💞️ I’m looking to collaborate on progressive projects and technical advancements in cyber security
 - 📫 How to reach me (kirimijunior1@gmail.com)
 
